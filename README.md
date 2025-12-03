@@ -1,4 +1,4 @@
-# script-replay-vonage
+# vonage-utils
 
 Script simple permettant de realiser un appel téléphonique d'un numéro "from" vers un numéro "to".
 Une fois l'appel décroché un message vocal répète trois fois "Hello World"
