@@ -1,7 +1,11 @@
 # vonage-utils
 
+### make-call.py
 Script simple permettant de realiser un appel téléphonique d'un numéro "from" vers un numéro "to".
 Une fois l'appel décroché un message vocal répète trois fois "Hello World"
+
+### connect-call.py
+Script connectant un leg phone et un leg sip
 
 ## Pour installer
 
